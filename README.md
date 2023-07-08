@@ -1,6 +1,7 @@
 # DSV Version Francaise
-ORIGINAL DEV OF THIS TOOL : https://github.com/suegdu/Discord-Username-Checker
-DEV ORIGINAL DU TOOL : ^
+DEV ORIGINAL : https://github.com/suegdu/Discord-Username-Checker
+Juste la version anglaise traduite en Français
+
 #### Pour les contributions et mise a jour : <a href="https://discord.gg/Bww4DvKA4Z">Join the Discord</a>
 ---
 - Check une liste spécifique de mots pour voir espérer trouver des noms valides.
