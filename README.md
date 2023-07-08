@@ -1,6 +1,6 @@
 # DSV Version Francaise
 DEV ORIGINAL : https://github.com/suegdu/Discord-Username-Checker
-Juste la version anglaise traduite en Français
+- Juste la version anglaise traduite en Français
 
 #### Pour les contributions et mise a jour : <a href="https://discord.gg/Bww4DvKA4Z">Join the Discord</a>
 ---
