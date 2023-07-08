@@ -16,7 +16,7 @@ DEV ORIGINAL DU TOOL : ^
 # Comment ca marche ?
 - Merci d'avoir <a href="https://www.python.org/">Python</a> d'installer.
 - Commencez par cloner le fichier ou <a href="https://github.com/suegdu/DSV/archive/refs/heads/main.zip"> télécharger le en .zip</a>
-- nstallez les bibliothèques requises en exécutant : ```pip install -r requirements.txt``` or `pip3 install -r requirements.txt` dans ton cmd.
+- installez les bibliothèques requises en exécutant : ```pip install -r requirements.txt``` or `pip3 install -r requirements.txt` dans ton cmd.
 - Ouvre `config.ini`
 - Collez le TOKEN de votre compte devant le symbole égal `TOKEN`
 - Configure DSV comme tu veux (`config.ini`)
