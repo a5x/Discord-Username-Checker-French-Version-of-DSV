@@ -28,9 +28,9 @@ DEV ORIGINAL DU TOOL : ^
 - #### Note: Cela ne fonctionnera qu'avec les comptes qui n'ont pas procédé à l'application du changement de nom et qui ont la fenêtre contextuelle à mettre à jour (Ex: crée un comtpe secondaire.). Lis <a href =#notes >Notes</a> pour connaitre pourquoi.
 
 # Images
-![](./images/img1.png)
-![](./images/img2.png)
-![](./images/img3.png)
+![](./images/frdsv1.png)
+![](./images/frdsv2.png)
+![](./images/frdsv3.png)
 
 # Notes
 #### Disclaimer: je ne suis pas responsable de/de tout dommage/résultats/retours/suspension fait/résulté avec/par cet outil. Tu accepte de le lance, tu accepte que les risques te reviennent.
