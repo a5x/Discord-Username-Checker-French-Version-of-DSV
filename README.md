@@ -16,11 +16,11 @@ DEV ORIGINAL DU TOOL : ^
 # Comment ca marche ?
 - Merci d'avoir <a href="https://www.python.org/">Python</a> d'installer.
 - Commencez par cloner le fichier ou <a href="https://github.com/suegdu/DSV/archive/refs/heads/main.zip"> télécharger le en .zip</a>
-- installez les bibliothèques requises en exécutant : ```pip install -r requirements.txt``` or `pip3 install -r requirements.txt` dans ton cmd.
+- installez les bibliothèques requises en exécutant : ```pip install -r requirements.txt``` ou `pip3 install -r requirements.txt` dans ton cmd.
 - Ouvre `config.ini`
 - Collez le TOKEN de votre compte devant le symbole égal `TOKEN`
 - Configure DSV comme tu veux (`config.ini`)
-- Run `dsv.py` 
+- Lance `dsv.py` 
 
 > - Pour ajouter une liste spécifique de noms d'utilisateur, crée un ficher au nom de `usernames.txt` dans le endroit que `dsv.py` et ajoute tout les noms que tu veux comme les exemples dans le fichier.
 > - Pour ajouter des tokens multiples, ouvre `config.ini` et active `MULTI-TOKEN` en remplacent false par `true` et colle tes tokens dans `tokens.txt` comme indiquer dans le fichier.
