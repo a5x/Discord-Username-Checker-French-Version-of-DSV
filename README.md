@@ -14,7 +14,7 @@ DEV ORIGINAL DU TOOL : ^
  > Check <a href =#notes >notes</a> pour une information très importante avant d'utiliser cet outil, et pour quelques FAQ. Et AVANT d'ouvrir une issue.
 
 # Comment ca marche ?
-- Have <a href="https://www.python.org/">Python</a> d'installer.
+- Merci d'avoir <a href="https://www.python.org/">Python</a> d'installer.
 - Commencez par cloner le fichier ou <a href="https://github.com/suegdu/DSV/archive/refs/heads/main.zip"> télécharger le en .zip</a>
 - nstallez les bibliothèques requises en exécutant : ```pip install -r requirements.txt``` or `pip3 install -r requirements.txt` dans ton cmd.
 - Ouvre `config.ini`
